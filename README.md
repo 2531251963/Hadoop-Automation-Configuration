@@ -10,3 +10,4 @@
 
 命令参数
 python3 hadoop-automation.py slavesname1 slavesname2 .... yes
+    
